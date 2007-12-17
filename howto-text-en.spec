@@ -13,7 +13,6 @@ Group:		Books/Howtos
 Source0:	Linux-HOWTOs.tar.bz2
 Url:		http://www.tldp.org/docs.html#howto
 License:	GPL
-BuildRoot:	%{_tmppath}/howto-%{format}-root
 BuildArchitectures: noarch
 Requires:   locales-en howto-utils
 BuildRequires:  howto-utils
