@@ -3,7 +3,7 @@
 %define	format3 text
 
 %define version 2007
-%define release %mkrel 5
+%define release 6
 
 Summary:	HOWTO documents (%{format3} format) from the Linux Documentation Project
 Name:		howto-%{format}
